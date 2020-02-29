@@ -1,10 +1,8 @@
-class Shoe 
+class Shoe
 
   def initialized(brand)
-    @brand= brand 
-  end 
-
-  
+    @brand= brand
+  end
 
 
 
@@ -13,4 +11,6 @@ class Shoe
 
 
 
-end 
+
+
+end
