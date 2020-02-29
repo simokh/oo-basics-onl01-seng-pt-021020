@@ -4,7 +4,7 @@ class Shoe
                 :size,
                 :material,
                 :condition
-                
+
   attr_reader   :brand
 
   def initialize(brand)
